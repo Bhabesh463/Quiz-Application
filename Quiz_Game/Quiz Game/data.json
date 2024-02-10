@@ -1,0 +1,37 @@
+{
+    "question": [
+      "Q1.Which character is used for single-line comments in Python?",
+      "Q2. Which type of Programming does Python support?",
+      "Q3. Which of the following is the truncation division operator in Python?",
+      "Q4. What will be the output if x=56.236? ( print('%.2f'%x) )"
+    ],
+    "answer": [
+      2,
+      4,
+      2,
+      4
+    ],
+    "options": [
+  
+      ["//",
+        "#",
+        "!",
+        "/*"
+    ],
+    ["object-oriented programming",
+    "structured programming" ,
+    "functional programming",
+      "all of the mentioned"
+    ],
+    ["|",
+      "//",
+      "/",
+      "%"
+    ],
+    ["56.232",
+      "56.23",
+      "56.0000",
+      "56.24"
+    ]
+  ]
+}
